@@ -1,4 +1,4 @@
-# Todo-List-GUI-Application-Adv
+# Task Manager GUI Application
 Developed a Todo application with a graphical user interface using Python.
 Utilized object-oriented programming principles, employing classes to manage tasks and application
 functionality.
